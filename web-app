@@ -1,1 +1,2 @@
 zuul.ip=local at git
+spring.mvc.view.suffix: .jspa
